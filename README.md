@@ -134,7 +134,3 @@ MIT License — see [LICENSE](LICENSE) file.
 💻 GitHub: [https://github.com/Tanmay1112004](https://github.com/Tanmay1112004)
 
 ---
-
-If you want, I can also make a **🔥 Recruiter-Ready Version** with **badges, visuals, and table-of-contents style**, like your LLaMA or Generative AI project READMEs.
-
-Do you want me to do that?
