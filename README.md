@@ -32,7 +32,7 @@ A modern **Python interface for MySQL** designed for clean, efficient, and secur
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/python-mysql-connector.git
+git clone https://github.com/Tanmay1112004/python-mysql-connector.git
 cd python-mysql-connector
 ```
 
