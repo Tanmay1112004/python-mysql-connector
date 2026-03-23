@@ -1,7 +1,3 @@
-Here’s a **polished, recruiter-ready README** for your Python MySQL Connector project. It’s professional, clear, and highlights key skills for portfolios or GitHub showcase:
-
----
-
 # 🐍 Python MySQL Connector 🔌
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
