@@ -12,6 +12,8 @@ A modern **Python interface for MySQL** designed for clean, efficient, and secur
 
 ![demo](https://github.com/Tanmay1112004/python-mysql-connector/blob/main/python%20to%20mysql%20connector/screenshots/Screenshot%202025-08-14%20184448.png)
 
+![demo](https://github.com/Tanmay1112004/python-mysql-connector/blob/main/python%20to%20mysql%20connector/screenshots/Screenshot%202025-08-14%20184655.png)
+
 ---
 
 ## ✨ Features
