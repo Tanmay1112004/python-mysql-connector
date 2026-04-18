@@ -139,7 +139,7 @@ MySQL Database
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com//python-mysql-connector.git
+git clone https://github.com/Tanmay1112004/python-mysql-connector.git
 cd python-mysql-connector
 pip install -r requirements.txt
 ```
